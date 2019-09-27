@@ -1,0 +1,7 @@
+# Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# Dataset folder and data files
+*.csv
+*.tsv
+/dataset
